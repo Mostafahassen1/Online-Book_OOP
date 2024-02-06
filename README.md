@@ -14,10 +14,10 @@
 
 #### 2. User Activities
 ![User Activities](https://github.com/Mostafahassen1/Hospital-System/assets/134046265/a56790d5-926f-40ed-9a03-d5a012047759)
-- View Profile: Represents your profile, including name, email, and username.
-- List & Select from History Books: Represents your book list; choose a book to reread or continue reading.
-- List & Select from Available Books: Explore and choose a book from the system to start reading.
-- Logout
+- **View Profile:** Represents your profile, including name, email, and username.
+- **List & Select from History Books:** Represents your book list; choose a book to reread or continue reading.
+- **List & Select from Available Books:** Explore and choose a book from the system to start reading.
+-**Logout**
 
 ## Admin Interaction
 
@@ -27,10 +27,10 @@
 #### Admin View
 ![Admin View](https://github.com/Mostafahassen1/Hospital-System/assets/134046265/be6ec308-ce22-49db-866e-ac0e119087b0)
 - Admin activities:
-  - View Profile: Represents the admin profile, including name, email, and username.
-  - Add Book:
+  - **View Profile:** Represents the admin profile, including name, email, and username.
+  -**Add Book:**
     ![Add Book](https://github.com/Mostafahassen1/Hospital-System/assets/134046265/e473682d-dcff-4981-b414-58ab8b1b04ab)
-  - Logout
+  - **Logout**
 
 
 
