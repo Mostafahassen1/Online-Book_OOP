@@ -28,8 +28,8 @@
 ![Admin View](https://github.com/Mostafahassen1/Hospital-System/assets/134046265/be6ec308-ce22-49db-866e-ac0e119087b0)
 - Admin activities:
   - **View Profile:** Represents the admin profile, including name, email, and username.
-  -**Add Book:**
-    ![Add Book](https://github.com/Mostafahassen1/Hospital-System/assets/134046265/e473682d-dcff-4981-b414-58ab8b1b04ab)
+    -
+  -**Add Book:** ![Add Book](https://github.com/Mostafahassen1/Hospital-System/assets/134046265/e473682d-dcff-4981-b414-58ab8b1b04ab)
   - **Logout**
 
 
